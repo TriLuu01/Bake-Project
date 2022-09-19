@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\RIM\\Projects\\DemoGit"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bake"
+	}
+}
